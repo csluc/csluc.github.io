@@ -1,12 +1,13 @@
 ---
+layout: page
 title: Contact
-image: 22.jpg
+image: 56.JPG
 permalink: /contact/
 ---
 
-**C. S. Luc**
+**Fang Wang**
 
-Email: Nopainting@hotmail.com
+Email: wfaugust@gmail.com 
 
-WeChat ID: affectioninfection
+WeChat ID: w_fang158
 
